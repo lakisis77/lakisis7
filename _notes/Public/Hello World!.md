@@ -1,6 +1,6 @@
 ---
 title: Hello World!
-notetype : unfeed
+notetype : feed
 date : 01-01-2021
 ---
 
