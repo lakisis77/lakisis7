@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ad307f537c49ff58",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ecc62fa174f1e16",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Public/Hello World!.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96889045695de83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "df95793c8777306b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c8aa9945697879",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9196d34d2b108da8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84cc619d17c9e9c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e4106ab72367af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c777f4880ad6f1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/Hello World!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4ecc62fa174f1e16",
+  "lastOpenFiles": [
+    "_notes/Public/Hello World!.md",
+    "_notes/Public/Welcome to the garden.md"
+  ]
+}
